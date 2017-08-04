@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>xcheque</name>
+	<displayName><![CDATA[xcheque]]></displayName>
+	<version><![CDATA[3.1]]></version>
+	<description><![CDATA[Ce module vous permet d&#039;accepter les r&egrave;glements par ch&egrave;que en trois fois sans frais.]]></description>
+	<author><![CDATA[JazZ]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Êtes vous sûr de vouloir supprimer les détails enregistrés?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
